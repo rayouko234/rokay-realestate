@@ -26,7 +26,7 @@ SECRET_KEY = 'ag9_k(wbq5u&(l_i$k1$$7bvefa)#s-$6e0a%%tih_+2n7dp^b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["rokayproperties.herokuapp.com"]
 
 
 # Application definition
